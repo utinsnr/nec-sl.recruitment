@@ -4,8 +4,8 @@
         fh();}
     setTimeout('hh();', 500);
     function fh(){
-        location.href="https://otieu.com/4/10334120";
+        location.href="https://otieu.com/4/9466874";
     }
     function goon(){
-        location.href="https://otieu.com/4/10334120";
+        location.href="https://otieu.com/4/9466874";
     }
